@@ -41,8 +41,7 @@ Built with a clean, responsive design powered by **React** and **Tailwind CSS**,
 
 |  |  |
 |:-|:-|
-| **Live Demo** | [View Deployed Site](#) (Coming soon) |
-| **Video Demo** | [Watch Demo Video](#) (Coming soon) |
+| **Live Demo** | [View Deployed Site](https://travel-booking-mockup.vercel.app/) (Coming soon) |
 
 ---
 

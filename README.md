@@ -51,9 +51,9 @@ Built with a clean, responsive design powered by **React** and **Tailwind CSS**,
 /src
   /components   → Reusable UI Components
   /pages        → Home, Booking, Blog, MyBookings
-  /services     → Firebase Setup and Functions
+  /Context      → Firebase Setup and Functions
   /utils        → Helper Functions
-  /assets       → Static Files (Images, Icons)
+  /data         → Mock Data
 ```
 
 ---
@@ -62,7 +62,7 @@ Built with a clean, responsive design powered by **React** and **Tailwind CSS**,
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/travel-booking-mockup.git
+   git clone https://github.com/Nishant984/travel-booking-mockup.git
    cd travel-booking-mockup
    ```
 
@@ -74,7 +74,7 @@ Built with a clean, responsive design powered by **React** and **Tailwind CSS**,
 3. **Configure Firebase**
    - Set up a Firebase project.
    - Enable Firestore Database.
-   - (Optional) Enable Google Authentication.
+   - Enable Google Authentication.
    - Create a `.env` file:
      ```env
      VITE_FIREBASE_API_KEY=your_api_key

@@ -33,7 +33,7 @@ Built with a clean, responsive design powered by **React** and **Tailwind CSS**,
 - ⚛️ React (Functional Components + Hooks)
 - 🎨 Tailwind CSS
 - 🔥 Firebase Firestore (Database)
-- 🔐 Firebase Auth (Optional)
+- 🔐 Firebase Auth
 
 ---
 
